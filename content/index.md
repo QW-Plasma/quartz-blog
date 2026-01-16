@@ -9,7 +9,3 @@ title: 欢迎来到秘密基地
 ## 最近更新
 
 - [[电动力学作业解答]]
-
-## 关于本站
-
-本站使用 [Quartz](https://quartz.jzhao.xyz/) 构建，托管在 GitHub Pages 上。
